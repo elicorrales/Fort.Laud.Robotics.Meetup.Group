@@ -6,6 +6,8 @@ On your Raspberry Pi, do:
 
 git clone https://github.com/jacksonliam/mjpg-streamer.git
 
+(there are also more instructions at the above URL)
+
 Then cd (change directory) into the mjpg-streamer that was just downloaded.   Then cd again to mjpg-streamer-experimental.
 
 If your Raspberry Pi is up-to-date, you should only have to do:
